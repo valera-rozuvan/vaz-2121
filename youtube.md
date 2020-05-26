@@ -4,7 +4,7 @@ The Lada 4×4, formerly called the Lada Niva or VAZ-2121 (Russian: Лада Ни
 
 This is a list of YouTube resources dedicated to tunning and maintenance of a Niva.
 
-## On the Jack
+## On the Jack [[channel]](https://www.youtube.com/channel/UCAa-KXiQ-YCczgq613eHw7w/videos)
 
 [YouTube channel videos](https://www.youtube.com/channel/UCAa-KXiQ-YCczgq613eHw7w/videos)
 
