@@ -120,3 +120,7 @@ This is a list of YouTube resources dedicated to tunning and maintenance of a Ni
 ## Elsa Studio [[YT channel]](https://www.youtube.com/channel/UCS67pMNK6DYiPzt0FPj6P6g/videos)
 
 - [Замена сцепления ВАЗ 21213 Нива Тайга](https://www.youtube.com/watch?v=R2zJhQZcHsU)
+
+## Нивоводец [[YT channel]](https://www.youtube.com/channel/UCv4BypSJIeszqdwpZivirqw/videos)
+
+- [Понижайка 3 к 1 раздатки нива 2121](https://www.youtube.com/watch?v=dJVtE3zQn8s)
