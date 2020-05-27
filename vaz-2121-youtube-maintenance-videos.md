@@ -116,3 +116,7 @@ This is a list of YouTube resources dedicated to tunning and maintenance of a Ni
 ## Мойша Рабинович [[YT channel]](https://www.youtube.com/channel/UCPEsqJHiykLT6IipSWNToiw/videos)
 
 - [ВАЗ 2131 Шумоизоляция и антикор. Быстро и эффективно!!!](https://www.youtube.com/watch?v=GHsrHHMtK9E)
+
+## Elsa Studio [[YT channel]](https://www.youtube.com/channel/UCS67pMNK6DYiPzt0FPj6P6g/videos)
+
+- [Замена сцепления ВАЗ 21213 Нива Тайга](https://www.youtube.com/watch?v=R2zJhQZcHsU)
