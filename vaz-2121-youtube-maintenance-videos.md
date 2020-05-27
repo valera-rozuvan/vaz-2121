@@ -124,3 +124,31 @@ This is a list of YouTube resources dedicated to tunning and maintenance of a Ni
 ## Нивоводец [[YT channel]](https://www.youtube.com/channel/UCv4BypSJIeszqdwpZivirqw/videos)
 
 - [Понижайка 3 к 1 раздатки нива 2121](https://www.youtube.com/watch?v=dJVtE3zQn8s)
+
+## Sergey Sivkov [[YT channel]](https://www.youtube.com/channel/UC_0YpLMC1LTHJZzA3NjKu1g/videos)
+
+- [Вечные пороги из профильной трубы для Нивы своими руками](https://www.youtube.com/watch?v=j4c9xICCM2I)
+
+## Вячеслав Кравченко [[YT channel]](https://www.youtube.com/channel/UC7oQ3Fg-FE1sLi4d2e23k4w/videos)
+
+- [Нива Тайга 4х4. Замена электробензонасоса.](https://www.youtube.com/watch?v=-eDP4QI63tA)
+
+## Гараж86 [[YT channel]](https://www.youtube.com/channel/UCKOc6RzwP8LPGct_Te34P0g/videos)
+
+- [Обработка днища салона Нива 21](https://www.youtube.com/watch?v=ZdrwJlCTLQ8)
+
+## Анатолий Лемешонок [[YT channel]](https://www.youtube.com/user/lag858/videos)
+
+- [Разбираем трансмиссию на ВАЗ 2131НИВА](https://www.youtube.com/watch?v=Sv4-GnPKIPA)
+
+## между двумя морями [[YT channel]](https://www.youtube.com/channel/UCU_sucZwpiYQuMNP3PLln1Q/videos)
+
+- [как проверить раздатку на ниве при покупке || блокировку дифференциала и повышенную, пониженную](https://www.youtube.com/watch?v=iTyQWoWR7ao)
+
+## Aleksandr Garage [[YT channel]](https://www.youtube.com/channel/UCFyYsSYxG8HRVpkojYj_Tzg/videos)
+
+- [Замена механизма стекло-подъемника ВАЗ 2121 Нива](https://www.youtube.com/watch?v=zf0hT_U3buk)
+
+## Вячеслав Кравченко [[YT channel]](https://www.youtube.com/channel/UC7oQ3Fg-FE1sLi4d2e23k4w/videos)
+
+- [Странное поведение Нивы. Диагностируем ДВС.](https://www.youtube.com/watch?v=MugKPI4-5jQ)
