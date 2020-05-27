@@ -129,10 +129,6 @@ This is a list of YouTube resources dedicated to tunning and maintenance of a Ni
 
 - [Вечные пороги из профильной трубы для Нивы своими руками](https://www.youtube.com/watch?v=j4c9xICCM2I)
 
-## Вячеслав Кравченко [[YT channel]](https://www.youtube.com/channel/UC7oQ3Fg-FE1sLi4d2e23k4w/videos)
-
-- [Нива Тайга 4х4. Замена электробензонасоса.](https://www.youtube.com/watch?v=-eDP4QI63tA)
-
 ## Гараж86 [[YT channel]](https://www.youtube.com/channel/UCKOc6RzwP8LPGct_Te34P0g/videos)
 
 - [Обработка днища салона Нива 21](https://www.youtube.com/watch?v=ZdrwJlCTLQ8)
