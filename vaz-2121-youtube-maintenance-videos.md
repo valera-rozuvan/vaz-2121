@@ -148,3 +148,7 @@ This is a list of YouTube resources dedicated to tunning and maintenance of a Ni
 ## Вячеслав Кравченко [[YT channel]](https://www.youtube.com/channel/UC7oQ3Fg-FE1sLi4d2e23k4w/videos)
 
 - [Странное поведение Нивы. Диагностируем ДВС.](https://www.youtube.com/watch?v=MugKPI4-5jQ)
+
+## Андрей Флорида [[YT channel]](https://www.youtube.com/channel/UCErAw0sEzyongsvx1szKFQA/videos)
+
+- [Замена редуктора переднего моста и приводов на НИВА 2131 NIVA 4x4](https://www.youtube.com/watch?v=DPzQHXnTJdM)
