@@ -152,3 +152,7 @@ This is a list of YouTube resources dedicated to tunning and maintenance of a Ni
 ## Андрей Флорида [[YT channel]](https://www.youtube.com/channel/UCErAw0sEzyongsvx1szKFQA/videos)
 
 - [Замена редуктора переднего моста и приводов на НИВА 2131 NIVA 4x4](https://www.youtube.com/watch?v=DPzQHXnTJdM)
+
+## рем зон 209 [[YT channel]](https://www.youtube.com/channel/UCzvAokHNZzMABueCsI_aSgQ/videos)
+
+- [Сигнал от Волги на Ниву](https://www.youtube.com/watch?v=QuP2woE0x-E)
